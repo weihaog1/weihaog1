@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 150" width="860" height="150" role="img" aria-label="Terminal session ending: exit, logout, connection to uci closed">
   <style>
-    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
   </style>
   <defs>

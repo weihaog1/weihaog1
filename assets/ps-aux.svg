@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 250" width="820" height="250" role="img" aria-label="Process list of highlighted projects: claude-code-statusline-alansauce, geological-sparse-autoencoder, ZotFriend, fog-of-war-chess, treasure-skills">
   <style>
-    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
   </style>
   <rect x="0.5" y="0.5" width="819" height="249" rx="8" fill="#0D1117" stroke="#30363D"/>
@@ -10,8 +9,12 @@
 
   <g font-size="13">
     <text y="90" fill-opacity="0">
-      <tspan x="24" fill="#8B949E">1001</tspan><tspan x="88" fill="#E3B341">star 6<animate attributeName="fill-opacity" values="1;0.45;1" dur="3s" begin="1.4s" repeatCount="indefinite"/></tspan><tspan x="168" fill="#3FB950">R</tspan><tspan x="224" fill="#00F7FF">claude-code-statusline-alansauce</tspan>
+      <tspan x="24" fill="#8B949E">1001</tspan><tspan x="168" fill="#3FB950">R</tspan><tspan x="224" fill="#00F7FF">claude-code-statusline-alansauce</tspan>
       <animate attributeName="fill-opacity" to="1" dur="0.12s" begin="0.3s" fill="freeze"/>
+    </text>
+    <text x="88" y="90" fill="#E3B341" fill-opacity="0">star 6
+      <animate attributeName="fill-opacity" to="1" dur="0.12s" begin="0.3s" fill="freeze"/>
+      <animate attributeName="fill-opacity" values="1;0.45;1" dur="3s" begin="1.4s" repeatCount="indefinite"/>
     </text>
     <text y="112" fill-opacity="0"><tspan x="224" fill="#6E7681">└─ two-line git-aware statusline for Claude Code</tspan><animate attributeName="fill-opacity" to="1" dur="0.12s" begin="0.42s" fill="freeze"/></text>
 

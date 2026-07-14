@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/neofetch.svg?v=1" width="860" alt="Terminal running neofetch: Alan Guo, ML/AI researcher and agent-tooling builder at UC Irvine, with an animated neural network training loop" />
+  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/neofetch.svg?v=2" width="860" alt="Terminal running neofetch: Alan Guo, ML/AI researcher and agent-tooling builder at UC Irvine, with an animated neural network training loop" />
 </p>
 
 ### `alan@uci:~$ whoami`
@@ -11,7 +11,7 @@
 ### `alan@uci:~$ cat ./stack`
 
 <p>
-  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/htop-langs.svg?v=1" width="720" alt="Language load bars: Jupyter 47.2 percent, Python 31.9 percent, TypeScript 17.5 percent, shell and web 3.4 percent" />
+  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/htop-langs.svg?v=2" width="720" alt="Language load bars: Jupyter 47.2 percent, Python 31.9 percent, TypeScript 17.5 percent, shell and web 3.4 percent" />
 </p>
 
 <sub>research</sub><br>
@@ -23,7 +23,7 @@
 ### `alan@uci:~$ ps aux --sort=-impact`
 
 <p>
-  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/ps-aux.svg?v=1" width="820" alt="Process list of highlighted projects" />
+  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/ps-aux.svg?v=2" width="820" alt="Process list of highlighted projects" />
 </p>
 
 - [**claude-code-statusline-alansauce**](https://github.com/weihaog1/claude-code-statusline-alansauce) · two-line, git-aware statusline plugin for Claude Code, cross-platform, 6 stars and counting
@@ -58,7 +58,7 @@ bebacef  Quick-Seg: docs: Add MIT license. (4 months ago)
 ### `alan@uci:~$ cat ./contact.txt`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/exit.svg?v=1" width="860" alt="Terminal session ending with exit and logout" />
+  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/exit.svg?v=2" width="860" alt="Terminal session ending with exit and logout" />
 </p>
 
 <p align="center">

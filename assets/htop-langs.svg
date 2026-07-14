@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" width="720" height="220" role="img" aria-label="Language load: Jupyter 47 percent, Python 32 percent, TypeScript 17 percent, shell and web 4 percent, measured by bytes across public repos">
   <style>
-    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
   </style>
   <rect x="0.5" y="0.5" width="719" height="219" rx="8" fill="#0D1117" stroke="#30363D"/>
