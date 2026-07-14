@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 480" width="860" height="480" role="img" aria-label="Terminal window running neofetch: Alan Guo, ML/AI researcher and agent-tooling builder at UC Irvine, with an animated neural network training loop">
+  <style>
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  </style>
+  <defs>
+    <g id="edges">
+      <line x1="70" y1="150" x2="165" y2="120"/><line x1="70" y1="150" x2="165" y2="180"/><line x1="70" y1="150" x2="165" y2="240"/><line x1="70" y1="150" x2="165" y2="300"/><line x1="70" y1="150" x2="165" y2="360"/>
+      <line x1="70" y1="210" x2="165" y2="120"/><line x1="70" y1="210" x2="165" y2="180"/><line x1="70" y1="210" x2="165" y2="240"/><line x1="70" y1="210" x2="165" y2="300"/><line x1="70" y1="210" x2="165" y2="360"/>
+      <line x1="70" y1="270" x2="165" y2="120"/><line x1="70" y1="270" x2="165" y2="180"/><line x1="70" y1="270" x2="165" y2="240"/><line x1="70" y1="270" x2="165" y2="300"/><line x1="70" y1="270" x2="165" y2="360"/>
+      <line x1="70" y1="330" x2="165" y2="120"/><line x1="70" y1="330" x2="165" y2="180"/><line x1="70" y1="330" x2="165" y2="240"/><line x1="70" y1="330" x2="165" y2="300"/><line x1="70" y1="330" x2="165" y2="360"/>
+      <line x1="165" y1="120" x2="260" y2="200"/><line x1="165" y1="120" x2="260" y2="280"/>
+      <line x1="165" y1="180" x2="260" y2="200"/><line x1="165" y1="180" x2="260" y2="280"/>
+      <line x1="165" y1="240" x2="260" y2="200"/><line x1="165" y1="240" x2="260" y2="280"/>
+      <line x1="165" y1="300" x2="260" y2="200"/><line x1="165" y1="300" x2="260" y2="280"/>
+      <line x1="165" y1="360" x2="260" y2="200"/><line x1="165" y1="360" x2="260" y2="280"/>
+    </g>
+    <pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#010409" opacity="0.35"/>
+    </pattern>
+    <clipPath id="typecmd">
+      <rect x="28" y="52" width="0" height="24">
+        <animate attributeName="width" from="0" to="180" dur="0.8s" begin="0.55s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g id="crt">
+    <animate attributeName="opacity" values="0;1;0.55;1;0.85;1" keyTimes="0;0.18;0.32;0.5;0.68;1" dur="0.5s" begin="0s" fill="freeze"/>
+
+    <rect x="8" y="8" width="844" height="464" rx="10" fill="#0D1117" stroke="#30363D"/>
+    <path d="M8 18 a10 10 0 0 1 10 -10 h824 a10 10 0 0 1 10 10 v24 H8 Z" fill="#161B22"/>
+    <line x1="8" y1="42" x2="852" y2="42" stroke="#30363D"/>
+    <circle cx="28" cy="25" r="6" fill="#7B2FFF"/>
+    <circle cx="48" cy="25" r="6" fill="#00F7FF"/>
+    <circle cx="68" cy="25" r="6" fill="#3FB950"/>
+    <text x="430" y="29" text-anchor="middle" font-size="12" fill="#8B949E">weihaog1@uci: ~ -zsh</text>
+
+    <text x="28" y="69" font-size="14" clip-path="url(#typecmd)" xml:space="preserve"><tspan fill="#3FB950">alan@uci</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#00F7FF">neofetch</tspan></text>
+
+    <g stroke="#00F7FF" stroke-opacity="0.12" stroke-width="1">
+      <use href="#edges"/>
+    </g>
+    <g stroke="#7B2FFF" stroke-width="1.2" opacity="0">
+      <use href="#edges"/>
+      <animate attributeName="opacity" begin="bp.begin" dur="1.6s" values="0;0.45;0" fill="freeze"/>
+    </g>
+
+    <g fill="#0D1117" stroke="#00F7FF" stroke-width="1.2">
+      <circle cx="70" cy="150" r="5"><animate attributeName="r" values="5;7;5" dur="0.5s" begin="fwd.begin" fill="freeze"/></circle>
+      <circle cx="70" cy="210" r="5"><animate attributeName="r" values="5;7;5" dur="0.5s" begin="fwd.begin+0.08s" fill="freeze"/></circle>
+      <circle cx="70" cy="270" r="5"><animate attributeName="r" values="5;7;5" dur="0.5s" begin="fwd.begin+0.16s" fill="freeze"/></circle>
+      <circle cx="70" cy="330" r="5"><animate attributeName="r" values="5;7;5" dur="0.5s" begin="fwd.begin+0.24s" fill="freeze"/></circle>
+      <circle cx="165" cy="120" r="5"><animate attributeName="r" values="5;7;5" dur="0.5s" begin="fwd.begin+1s;bp.begin+0.7s" fill="freeze"/></circle>
+      <circle cx="165" cy="180" r="5"><animate attributeName="r" values="5;7;5" dur="0.5s" begin="fwd.begin+1.08s;bp.begin+0.78s" fill="freeze"/></circle>
+      <circle cx="165" cy="240" r="5"><animate attributeName="r" values="5;7;5" dur="0.5s" begin="fwd.begin+1.16s;bp.begin+0.86s" fill="freeze"/></circle>
+      <circle cx="165" cy="300" r="5"><animate attributeName="r" values="5;7;5" dur="0.5s" begin="fwd.begin+1.24s;bp.begin+0.94s" fill="freeze"/></circle>
+      <circle cx="165" cy="360" r="5"><animate attributeName="r" values="5;7;5" dur="0.5s" begin="fwd.begin+1.32s;bp.begin+1.02s" fill="freeze"/></circle>
+      <circle cx="260" cy="200" r="5"><animate attributeName="r" values="5;7;5" dur="0.5s" begin="fwd.begin+1.95s;bp.begin" fill="freeze"/></circle>
+      <circle cx="260" cy="280" r="5"><animate attributeName="r" values="5;7;5" dur="0.5s" begin="fwd.begin+2.03s;bp.begin+0.08s" fill="freeze"/></circle>
+    </g>
+
+    <g opacity="0">
+      <circle r="6" fill="#00F7FF" opacity="0.25"/>
+      <circle r="3.2" fill="#00F7FF"/>
+      <animateMotion id="fwd" path="M70,210 L165,240 L260,200" dur="2.2s" begin="1.6s;bp.end+0.4s"/>
+      <animate attributeName="opacity" begin="fwd.begin" dur="2.2s" values="0;1;1;0" keyTimes="0;0.06;0.9;1" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <circle r="6" fill="#7B2FFF" opacity="0.25"/>
+      <circle r="3.2" fill="#7B2FFF"/>
+      <animateMotion id="bp" path="M260,280 L165,180 L70,150" dur="1.6s" begin="fwd.end+0.35s"/>
+      <animate attributeName="opacity" begin="bp.begin" dur="1.6s" values="0;1;1;0" keyTimes="0;0.08;0.9;1" fill="freeze"/>
+    </g>
+    <text x="165" y="392" text-anchor="middle" font-size="11" fill="#6E7681">forward · backward · repeat</text>
+
+    <g font-size="13">
+      <text x="330" y="110" fill="#3FB950" fill-opacity="0"><tspan font-weight="bold">alan@uci</tspan><animate attributeName="fill-opacity" to="1" dur="0.12s" begin="1.8s" fill="freeze"/></text>
+      <text x="330" y="132" fill="#8B949E" fill-opacity="0">----------------<animate attributeName="fill-opacity" to="1" dur="0.12s" begin="1.94s" fill="freeze"/></text>
+      <text y="154" fill-opacity="0"><tspan x="330" fill="#00F7FF">host</tspan><tspan x="445" fill="#E6EDF3">alan@uci</tspan><animate attributeName="fill-opacity" to="1" dur="0.12s" begin="2.08s" fill="freeze"/></text>
+      <text y="176" fill-opacity="0"><tspan x="330" fill="#00F7FF">role</tspan><tspan x="445" fill="#E6EDF3">ML/AI researcher · agent-tooling builder</tspan><animate attributeName="fill-opacity" to="1" dur="0.12s" begin="2.22s" fill="freeze"/></text>
+      <text y="198" fill-opacity="0"><tspan x="330" fill="#00F7FF">loc</tspan><tspan x="445" fill="#E6EDF3">Irvine, CA</tspan><animate attributeName="fill-opacity" to="1" dur="0.12s" begin="2.36s" fill="freeze"/></text>
+      <text y="220" fill-opacity="0"><tspan x="330" fill="#00F7FF">kernel</tspan><tspan x="445" fill="#E6EDF3">PyTorch + scikit-learn</tspan><animate attributeName="fill-opacity" to="1" dur="0.12s" begin="2.5s" fill="freeze"/></text>
+      <text y="242" fill-opacity="0"><tspan x="330" fill="#00F7FF">uptime</tspan><tspan x="445" fill="#E6EDF3">shipping since Oct 2024</tspan><animate attributeName="fill-opacity" to="1" dur="0.12s" begin="2.64s" fill="freeze"/></text>
+      <text y="264" fill-opacity="0"><tspan x="330" fill="#00F7FF">shell</tspan><tspan x="445" fill="#E6EDF3">claude-code + zsh</tspan><animate attributeName="fill-opacity" to="1" dur="0.12s" begin="2.78s" fill="freeze"/></text>
+      <text y="286" fill-opacity="0"><tspan x="330" fill="#00F7FF">packages</tspan><tspan x="445" fill="#E6EDF3">24 public repos</tspan><animate attributeName="fill-opacity" to="1" dur="0.12s" begin="2.92s" fill="freeze"/></text>
+      <text y="308" fill-opacity="0"><tspan x="330" fill="#00F7FF">focus</tspan><tspan x="445" fill="#E6EDF3">sparse autoencoders · interpretability</tspan><animate attributeName="fill-opacity" to="1" dur="0.12s" begin="3.06s" fill="freeze"/></text>
+      <text y="330" fill-opacity="0"><tspan x="330" fill="#00F7FF">editor</tspan><tspan x="445" fill="#E6EDF3">VS Code + nvim</tspan><animate attributeName="fill-opacity" to="1" dur="0.12s" begin="3.2s" fill="freeze"/></text>
+      <text y="352" fill-opacity="0"><tspan x="330" fill="#00F7FF">langs</tspan><tspan x="445" fill="#E6EDF3">Python | Jupyter | TypeScript | Shell</tspan><animate attributeName="fill-opacity" to="1" dur="0.12s" begin="3.34s" fill="freeze"/></text>
+      <text y="374" fill-opacity="0"><tspan x="330" fill="#00F7FF">now</tspan><tspan x="445" fill="#E6EDF3">building AI-agent dev tools</tspan><animate attributeName="fill-opacity" to="1" dur="0.12s" begin="3.48s" fill="freeze"/></text>
+    </g>
+
+    <g>
+      <rect x="330" y="414" width="14" height="14" fill="#30363D" fill-opacity="0"><animate attributeName="fill-opacity" to="1" dur="0.1s" begin="3.7s" fill="freeze"/></rect>
+      <rect x="354" y="414" width="14" height="14" fill="#3FB950" fill-opacity="0"><animate attributeName="fill-opacity" to="1" dur="0.1s" begin="3.78s" fill="freeze"/></rect>
+      <rect x="378" y="414" width="14" height="14" fill="#00F7FF" fill-opacity="0"><animate attributeName="fill-opacity" to="1" dur="0.1s" begin="3.86s" fill="freeze"/></rect>
+      <rect x="402" y="414" width="14" height="14" fill="#7B2FFF" fill-opacity="0"><animate attributeName="fill-opacity" to="1" dur="0.1s" begin="3.94s" fill="freeze"/></rect>
+      <rect x="426" y="414" width="14" height="14" fill="#F778BA" fill-opacity="0"><animate attributeName="fill-opacity" to="1" dur="0.1s" begin="4.02s" fill="freeze"/></rect>
+      <rect x="450" y="414" width="14" height="14" fill="#E3B341" fill-opacity="0"><animate attributeName="fill-opacity" to="1" dur="0.1s" begin="4.1s" fill="freeze"/></rect>
+      <rect x="474" y="414" width="14" height="14" fill="#8B949E" fill-opacity="0"><animate attributeName="fill-opacity" to="1" dur="0.1s" begin="4.18s" fill="freeze"/></rect>
+      <rect x="498" y="414" width="14" height="14" fill="#E6EDF3" fill-opacity="0"><animate attributeName="fill-opacity" to="1" dur="0.1s" begin="4.26s" fill="freeze"/></rect>
+    </g>
+
+    <g fill-opacity="0">
+      <text x="28" y="457" font-size="14" xml:space="preserve"><tspan fill="#3FB950">alan@uci</tspan><tspan fill="#8B949E">:~$ </tspan></text>
+      <animate attributeName="fill-opacity" to="1" dur="0.1s" begin="4.4s" fill="freeze"/>
+    </g>
+    <rect x="126" y="444" width="8" height="15" fill="#00F7FF" opacity="0">
+      <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1.06s" begin="4.4s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="9" y="43" width="842" height="428" fill="url(#scan)" pointer-events="none"/>
+  </g>
+</svg>

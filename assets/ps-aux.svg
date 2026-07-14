@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 250" width="820" height="250" role="img" aria-label="Process list of highlighted projects: claude-code-statusline-alansauce, geological-sparse-autoencoder, ZotFriend, fog-of-war-chess, treasure-skills">
+  <style>
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  </style>
+  <rect x="0.5" y="0.5" width="819" height="249" rx="8" fill="#0D1117" stroke="#30363D"/>
+
+  <text x="24" y="34" font-size="14" xml:space="preserve"><tspan fill="#3FB950">alan@uci</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#00F7FF">ps aux --sort=-impact</tspan></text>
+  <text x="24" y="62" font-size="12" fill="#8B949E" xml:space="preserve">PID     ACT       STAT   COMMAND</text>
+
+  <g font-size="13">
+    <text y="90" fill-opacity="0">
+      <tspan x="24" fill="#8B949E">1001</tspan><tspan x="88" fill="#E3B341">star 6<animate attributeName="fill-opacity" values="1;0.45;1" dur="3s" begin="1.4s" repeatCount="indefinite"/></tspan><tspan x="168" fill="#3FB950">R</tspan><tspan x="224" fill="#00F7FF">claude-code-statusline-alansauce</tspan>
+      <animate attributeName="fill-opacity" to="1" dur="0.12s" begin="0.3s" fill="freeze"/>
+    </text>
+    <text y="112" fill-opacity="0"><tspan x="224" fill="#6E7681">└─ two-line git-aware statusline for Claude Code</tspan><animate attributeName="fill-opacity" to="1" dur="0.12s" begin="0.42s" fill="freeze"/></text>
+
+    <text y="138" fill-opacity="0">
+      <tspan x="24" fill="#8B949E">1002</tspan><tspan x="88" fill="#7B2FFF">hot</tspan><tspan x="168" fill="#3FB950">R</tspan><tspan x="224" fill="#00F7FF">geological-sparse-autoencoder</tspan><tspan fill="#6E7681">  # GeoSAE interpretability research</tspan>
+      <animate attributeName="fill-opacity" to="1" dur="0.12s" begin="0.54s" fill="freeze"/>
+    </text>
+    <text y="164" fill-opacity="0">
+      <tspan x="24" fill="#8B949E">1003</tspan><tspan x="88" fill="#7B2FFF">hot</tspan><tspan x="168" fill="#3FB950">R</tspan><tspan x="224" fill="#00F7FF">ZotFriend</tspan><tspan fill="#6E7681">  # UCI campus companion app</tspan>
+      <animate attributeName="fill-opacity" to="1" dur="0.12s" begin="0.66s" fill="freeze"/>
+    </text>
+    <text y="190" fill-opacity="0">
+      <tspan x="24" fill="#8B949E">1004</tspan><tspan x="88" fill="#F778BA">fun</tspan><tspan x="168" fill="#8B949E">S</tspan><tspan x="224" fill="#00F7FF">fog-of-war-chess</tspan><tspan fill="#6E7681">  # chess with imperfect information</tspan>
+      <animate attributeName="fill-opacity" to="1" dur="0.12s" begin="0.78s" fill="freeze"/>
+    </text>
+    <text y="216" fill-opacity="0">
+      <tspan x="24" fill="#8B949E">1005</tspan><tspan x="88" fill="#7B2FFF">new</tspan><tspan x="168" fill="#3FB950">R</tspan><tspan x="224" fill="#00F7FF">treasure-skills</tspan><tspan fill="#6E7681">  # reusable agent skills library</tspan>
+      <animate attributeName="fill-opacity" to="1" dur="0.12s" begin="0.9s" fill="freeze"/>
+    </text>
+  </g>
+
+  <g fill-opacity="0">
+    <text x="24" y="238" font-size="14" xml:space="preserve"><tspan fill="#3FB950">alan@uci</tspan><tspan fill="#8B949E">:~$ </tspan></text>
+    <animate attributeName="fill-opacity" to="1" dur="0.1s" begin="1.1s" fill="freeze"/>
+  </g>
+  <rect x="122" y="225" width="8" height="15" fill="#00F7FF" opacity="0">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1.06s" begin="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
