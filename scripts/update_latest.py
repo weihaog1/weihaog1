@@ -3,6 +3,7 @@
 import json
 import os
 import re
+import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 
@@ -26,11 +27,15 @@ def relative(iso):
     then = datetime.fromisoformat(iso.replace("Z", "+00:00"))
     delta = datetime.now(timezone.utc) - then
     days = delta.days
-    if days >= 60:
-        return f"{days // 30} months ago"
-    if days >= 2:
-        return f"{days} days ago"
-    hours = delta.seconds // 3600 + days * 24
+    if days >= 365:
+        n = days // 365
+        return f"{n} year{'s' if n > 1 else ''} ago"
+    if days >= 30:
+        n = days // 30
+        return f"{n} month{'s' if n > 1 else ''} ago"
+    if days >= 1:
+        return f"{days} day{'s' if days > 1 else ''} ago"
+    hours = delta.seconds // 3600
     if hours >= 2:
         return f"{hours} hours ago"
     return "just now"
@@ -42,21 +47,34 @@ def main():
 
     lines = []
     for repo in picked:
-        commits = api(f"/repos/{USER}/{repo['name']}/commits?per_page=1")
+        try:
+            commits = api(f"/repos/{USER}/{repo['name']}/commits?per_page=1")
+        except (urllib.error.HTTPError, urllib.error.URLError):
+            continue
         if not commits:
             continue
         sha = commits[0]["sha"][:7]
         message = commits[0]["commit"]["message"].splitlines()[0]
+        message = message.replace("<!--", "").replace("-->", "")
         if len(message) > 60:
             message = message[:57] + "..."
         when = relative(commits[0]["commit"]["committer"]["date"])
         lines.append(f"{sha}  {repo['name']}: {message} ({when})")
 
+    if not lines:
+        print("no repos to show, leaving README untouched")
+        return
+
     block = f"{START}\n```text\n" + "\n".join(lines) + f"\n```\n{END}"
     with open(README, encoding="utf-8") as f:
         content = f.read()
+    if START not in content or END not in content:
+        raise SystemExit("LATEST markers missing from README")
     updated = re.sub(
-        re.escape(START) + r".*?" + re.escape(END), block, content, flags=re.S
+        re.escape(START) + r".*?" + re.escape(END),
+        lambda _m: block,
+        content,
+        flags=re.S,
     )
     if updated != content:
         with open(README, "w", encoding="utf-8") as f:
