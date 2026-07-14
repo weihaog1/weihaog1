@@ -67,5 +67,5 @@ bebacef  Quick-Seg: docs: Add MIT license. (4 months ago)
 </p>
 
 <p align="center">
-  <sub>terminal cards are hand-built animated SVGs: no JavaScript, no web fonts, pure SMIL · git log refreshes itself daily via GitHub Actions</sub>
+  <sub>terminal cards are hand-built animated SVGs: no JavaScript, no web fonts, pure SMIL animation · git log refreshes itself daily via GitHub Actions</sub>
 </p>
