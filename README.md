@@ -36,10 +36,10 @@
 
 <!-- LATEST:START -->
 ```text
-0067f26  treasure-skills: feat: Add pptx-master skill for pixel-perfect deck buildi... (9 days ago)
+0067f26  treasure-skills: feat: Add pptx-master skill for pixel-perfect deck buildi... (10 days ago)
 5f04cd1  fog-of-war-chess: style: polish pass on accessibility, meta tags, and lobby... (3 months ago)
-f941deb  The-Elixir-Optimizers: fix: Remove redundant AI disclosure paragraph. (3 months ago)
-7d9147c  claude-code-statusline-alansauce: docs: Update README with new screenshot and current featu... (3 months ago)
+f941deb  The-Elixir-Optimizers: fix: Remove redundant AI disclosure paragraph. (4 months ago)
+7d9147c  claude-code-statusline-alansauce: docs: Update README with new screenshot and current featu... (4 months ago)
 bebacef  Quick-Seg: docs: Add MIT license. (4 months ago)
 ```
 <!-- LATEST:END -->
