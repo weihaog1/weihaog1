@@ -6,7 +6,7 @@
 
 **ML/AI researcher** (sparse autoencoders, interpretability, applied vision) · **builder of AI-agent developer tooling** (Claude Code statusline, skills, notification hooks) · **UC Irvine student who ships side quests** (fog-of-war chess, ZotFriend).
 
-<sub>Irvine, CA · guoweihaoalan@gmail.com</sub>
+<sub>Irvine, CA · guoweihaoalan@gmail.com · <a href="https://www.linkedin.com/in/alanguow/">LinkedIn</a></sub>
 
 ### `alan@uci:~$ cat ./stack`
 
@@ -63,6 +63,7 @@ bebacef  Quick-Seg: docs: Add MIT license. (4 months ago)
 
 <p align="center">
   <a href="mailto:guoweihaoalan@gmail.com"><img src="https://img.shields.io/badge/email-guoweihaoalan%40gmail.com-7B2FFF?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=00F7FF" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/alanguow/"><img src="https://img.shields.io/badge/LinkedIn-alanguow-7B2FFF?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=00F7FF" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/location-Irvine%2C%20CA-7B2FFF?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=00F7FF" alt="Location: Irvine, CA" />
 </p>
 
