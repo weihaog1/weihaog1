@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/neofetch.svg?v=2" width="860" alt="Terminal running neofetch: Alan Guo, ML/AI engineer at UC Irvine building reliable intelligent systems and developer tools, with an animated neural network training loop" />
+  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/neofetch.svg?v=3" width="860" alt="Terminal running neofetch: Alan Guo, an incoming AWS team member interested in full-stack development, AI engineering, and AI-powered applications" />
 </p>
 
 ### `alan@uci:~$ whoami`
 
-**ML/AI engineer** building reliable intelligent systems and developer tools. I focus on applied machine learning, model interpretability, and production AI through work at Nutanix, Break Through Tech, and UC Irvine.
+**Incoming at AWS** and studying computer science at UC Irvine. I am interested in full-stack development, AI engineering, and building reliable AI-powered applications.
 
 <sub>Irvine, CA · guoweihaoalan@gmail.com · <a href="https://www.linkedin.com/in/alanguow/">LinkedIn</a></sub>
 
@@ -14,10 +14,10 @@
   <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/htop-langs.svg?v=2" width="720" alt="Language load bars: Jupyter 47.2 percent, Python 31.9 percent, TypeScript 17.5 percent, shell and web 3.4 percent" />
 </p>
 
-<sub>machine learning and research</sub><br>
+<sub>AI engineering</sub><br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn" /></a>
 
-<sub>systems, web, tooling</sub><br>
+<sub>full-stack development and tooling</sub><br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,bash&theme=dark" alt="TypeScript, React, Next.js, Tailwind, Bash" /></a>
 
 ### `alan@uci:~$ ps aux --sort=-impact`
@@ -44,17 +44,12 @@ bebacef  Quick-Seg: docs: Add MIT license. (4 months ago)
 ```
 <!-- LATEST:END -->
 
-### `alan@uci:~$ uptime`
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weihaog1&bg_color=0D1117&color=00F7FF&line=7B2FFF&point=E6EDF3&hide_border=true&area=true&area_color=7B2FFF&custom_title=uptime%20--%20contribution%20activity" width="860" alt="Contribution activity graph" />
-</p>
-
 ### `alan@uci:~$ cat ./work.log`
 
-- Nutanix: AIOps for Nutanix Cloud Manager.
-- Applied ML: advertising click-through-rate prediction, demand and sales forecasting, and e-commerce item segmentation.
-- Research: sparse autoencoder interpretability (GeoSAE), layer-wise learning (SCFF), and applied vision.
+- Incoming at AWS.
+- Full-stack development: building user-facing applications and developer tools with TypeScript, React, and Next.js.
+- AI engineering: creating ML systems and AI-powered applications across prediction, segmentation, and interpretability.
+- Nutanix: built AIOps capabilities for Nutanix Cloud Manager.
 
 ### `alan@uci:~$ cat ./contact.txt`
 
@@ -66,8 +61,4 @@ bebacef  Quick-Seg: docs: Add MIT license. (4 months ago)
   <a href="mailto:guoweihaoalan@gmail.com"><img src="https://img.shields.io/badge/email-guoweihaoalan%40gmail.com-7B2FFF?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=00F7FF" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/alanguow/"><img src="https://img.shields.io/badge/LinkedIn-alanguow-7B2FFF?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=00F7FF" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/location-Irvine%2C%20CA-7B2FFF?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=00F7FF" alt="Location: Irvine, CA" />
-</p>
-
-<p align="center">
-  <sub>terminal cards are hand-built animated SVGs: no JavaScript, no web fonts, pure SMIL animation · git log refreshes itself daily via GitHub Actions</sub>
 </p>
