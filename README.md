@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/neofetch.svg?v=3" width="860" alt="Terminal running neofetch: Alan Guo, an incoming AWS team member interested in full-stack development, AI engineering, and AI-powered applications" />
+  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/neofetch.svg?v=4" width="860" alt="Terminal running neofetch: Alan Guo, an incoming AWS team member interested in full-stack development, AI engineering, and AI-powered applications" />
 </p>
 
 ### `alan@uci:~$ whoami`
@@ -49,6 +49,7 @@ bebacef  Quick-Seg: docs: Add MIT license. (4 months ago)
 - Incoming at AWS.
 - Full-stack development: building user-facing applications and developer tools with TypeScript, React, and Next.js.
 - AI engineering: creating ML systems and AI-powered applications across prediction, segmentation, and interpretability.
+- Developer workflow: Claude Code and Codex Desktop in Ghostty.
 - Nutanix: built AIOps capabilities for Nutanix Cloud Manager.
 
 ### `alan@uci:~$ cat ./contact.txt`
