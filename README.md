@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/neofetch.svg?v=4" width="860" alt="Terminal running neofetch: Alan Guo, an incoming AWS team member interested in full-stack development, AI engineering, and AI-powered applications" />
+  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/neofetch.svg?v=5" width="860" alt="Terminal running neofetch: Alan Guo, an Intern, Member of Technical Staff at Nutanix and incoming Fall intern at AWS, interested in full-stack development, AI engineering, and AI-powered applications" />
 </p>
 
 ### `alan@uci:~$ whoami`
 
-**Incoming at AWS** and studying computer science at UC Irvine. I am interested in full-stack development, AI engineering, and building reliable AI-powered applications.
+**Intern, Member of Technical Staff at Nutanix** and **incoming Fall 2026 intern at AWS**, studying computer science at UC Irvine. I am interested in full-stack development, AI engineering, and building reliable AI-powered applications.
 
 <sub>Irvine, CA · guoweihaoalan@gmail.com · <a href="https://www.linkedin.com/in/alanguow/">LinkedIn</a></sub>
 
@@ -23,13 +23,13 @@
 ### `alan@uci:~$ ps aux --sort=-impact`
 
 <p>
-  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/ps-aux.svg?v=2" width="820" alt="Process list of highlighted projects" />
+  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/ps-aux.svg?v=3" width="820" alt="Process list highlighting a Claude Code statusline, GeoSAE research, the ZotPool hackathon project, a Clash Royale reinforcement learning agent, and an agent skills library" />
 </p>
 
 - [**claude-code-statusline-alansauce**](https://github.com/weihaog1/claude-code-statusline-alansauce) · two-line, git-aware statusline plugin for Claude Code, cross-platform, 6 stars and counting
 - [**geological-sparse-autoencoder**](https://github.com/weihaog1/geological-sparse-autoencoder) · sparse autoencoders for interpretability on geological remote-sensing data (GeoSAE)
-- [**ZotFriend**](https://github.com/weihaog1/ZotFriend) · campus companion app for UC Irvine students
-- [**fog-of-war-chess**](https://github.com/weihaog1/fog-of-war-chess) · chess variant where you only see what your pieces see
+- [**ZotPool**](https://github.com/weihaog1/zotpool-irvinehacks) · hackathon carpooling platform for UC Irvine students built with React, Supabase, and Mapbox
+- [**The Elixir Optimizers**](https://github.com/weihaog1/The-Elixir-Optimizers) · Clash Royale reinforcement learning agent using computer vision, behavior cloning, and PPO
 - [**treasure-skills**](https://github.com/weihaog1/treasure-skills) · library of reusable skills for AI coding agents
 
 ### `alan@uci:~$ git log --oneline -5`
@@ -46,11 +46,11 @@ bebacef  Quick-Seg: docs: Add MIT license. (4 months ago)
 
 ### `alan@uci:~$ cat ./work.log`
 
-- Incoming at AWS.
+- Current: Intern, Member of Technical Staff at Nutanix, building AIOps capabilities for Nutanix Cloud Manager.
+- Fall 2026: Incoming intern at AWS.
 - Full-stack development: building user-facing applications and developer tools with TypeScript, React, and Next.js.
 - AI engineering: creating ML systems and AI-powered applications across prediction, segmentation, and interpretability.
 - Developer workflow: Claude Code and Codex Desktop in Ghostty.
-- Nutanix: built AIOps capabilities for Nutanix Cloud Manager.
 
 ### `alan@uci:~$ cat ./contact.txt`
 
