@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/neofetch.svg?v=2" width="860" alt="Terminal running neofetch: Alan Guo, ML/AI researcher and agent-tooling builder at UC Irvine, with an animated neural network training loop" />
+  <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/neofetch.svg?v=2" width="860" alt="Terminal running neofetch: Alan Guo, ML/AI engineer at UC Irvine building reliable intelligent systems and developer tools, with an animated neural network training loop" />
 </p>
 
 ### `alan@uci:~$ whoami`
 
-**ML/AI researcher** (sparse autoencoders, interpretability, applied vision) · **builder of AI-agent developer tooling** (Claude Code statusline, skills, notification hooks) · **UC Irvine student who ships side quests** (fog-of-war chess, ZotFriend).
+**ML/AI engineer** building reliable intelligent systems and developer tools. I focus on applied machine learning, model interpretability, and production AI through work at Nutanix, Break Through Tech, and UC Irvine.
 
 <sub>Irvine, CA · guoweihaoalan@gmail.com · <a href="https://www.linkedin.com/in/alanguow/">LinkedIn</a></sub>
 
@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/weihaog1/weihaog1/main/assets/htop-langs.svg?v=2" width="720" alt="Language load bars: Jupyter 47.2 percent, Python 31.9 percent, TypeScript 17.5 percent, shell and web 3.4 percent" />
 </p>
 
-<sub>research</sub><br>
+<sub>machine learning and research</sub><br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn" /></a>
 
 <sub>systems, web, tooling</sub><br>
@@ -52,8 +52,9 @@ bebacef  Quick-Seg: docs: Add MIT license. (4 months ago)
 
 ### `alan@uci:~$ cat ./work.log`
 
-- Production ML internship: ad-CTR prediction, demand and sales forecasting, and item segmentation pipelines.
-- Research: sparse autoencoder interpretability (GeoSAE), layer-wise learning (SCFF), applied vision (facial expression recognition, E. coli growth-stage detection).
+- Nutanix: AIOps for Nutanix Cloud Manager.
+- Applied ML: advertising click-through-rate prediction, demand and sales forecasting, and e-commerce item segmentation.
+- Research: sparse autoencoder interpretability (GeoSAE), layer-wise learning (SCFF), and applied vision.
 
 ### `alan@uci:~$ cat ./contact.txt`
 
