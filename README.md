@@ -37,9 +37,9 @@
 <!-- LATEST:START -->
 ```text
 3a77a1a  agentflow: security: document stable runtime scan exceptions (1 month ago)
-c4a3e01  open-links: feat: Accept a compact v2 link payload to keep email link... (7 days ago)
+c4a3e01  open-links: feat: Accept a compact v2 link payload to keep email link... (8 days ago)
 0067f26  treasure-skills: feat: Add pptx-master skill for pixel-perfect deck buildi... (3 months ago)
-5f04cd1  fog-of-war-chess: style: polish pass on accessibility, meta tags, and lobby... (5 months ago)
+5f04cd1  fog-of-war-chess: style: polish pass on accessibility, meta tags, and lobby... (6 months ago)
 f941deb  The-Elixir-Optimizers: fix: Remove redundant AI disclosure paragraph. (6 months ago)
 ```
 <!-- LATEST:END -->
